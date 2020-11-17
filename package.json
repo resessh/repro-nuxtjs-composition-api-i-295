@@ -1,0 +1,25 @@
+{
+  "name": "repro-nuxtjs-composition-api-i-295",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint scriptToLint.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/resessh/repro-nuxtjs-composition-api-i-295.git"
+  },
+  "author": "info@resessh.net",
+  "dependencies": {
+    "@nuxtjs/composition-api": "^0.15.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/eslint-parser": "^7.12.1",
+    "@babel/preset-env": "^7.12.1",
+    "eslint": "^7.13.0",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
